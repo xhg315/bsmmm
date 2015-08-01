@@ -48,6 +48,10 @@ import com.ab.view.titlebar.AbTitleBar;
  * @date：2013-1-15 下午3:27:05
  */
 
+
+
+
+
 public abstract class AbActivity extends FragmentActivity {
 
 	/** 全局的LayoutInflater对象，已经完成初始化. */
